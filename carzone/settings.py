@@ -26,7 +26,7 @@ SECRET_KEY = 'y&#*p1m$x_iwg54kshhwr+p^*rea-687ny4&4=7z9vj%u!6zb)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['hidden-basin-98879.herokuapp.com','carzoneapp.co', 'www.carzoneapp.co']
 
 LOGIN_REDIRECT_URL = 'dashboard'
 # Application definition
